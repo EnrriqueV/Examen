@@ -1,0 +1,7 @@
+D:\Sistemas-2do-Año\Estructura-de-Datos\VacaPint\VacaPint\bin\Debug\VacaPint.exe.config
+D:\Sistemas-2do-Año\Estructura-de-Datos\VacaPint\VacaPint\bin\Debug\VacaPint.exe
+D:\Sistemas-2do-Año\Estructura-de-Datos\VacaPint\VacaPint\bin\Debug\VacaPint.pdb
+D:\Sistemas-2do-Año\Estructura-de-Datos\VacaPint\VacaPint\obj\Debug\VacaPint.csproj.AssemblyReference.cache
+D:\Sistemas-2do-Año\Estructura-de-Datos\VacaPint\VacaPint\obj\Debug\VacaPint.csproj.CoreCompileInputs.cache
+D:\Sistemas-2do-Año\Estructura-de-Datos\VacaPint\VacaPint\obj\Debug\VacaPint.exe
+D:\Sistemas-2do-Año\Estructura-de-Datos\VacaPint\VacaPint\obj\Debug\VacaPint.pdb
